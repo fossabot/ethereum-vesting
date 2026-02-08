@@ -1,4 +1,6 @@
 # Ethereum Vesting Smart-Contract
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fethereum-vesting.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fethereum-vesting?ref=badge_shield)
+
 
 A smart-contract allowing Ethereum to be time-vested on a continuous schedule.
 
@@ -9,3 +11,7 @@ However there is no alternative for vesting 'raw' Ethereum (as opposed to wrappe
 This contract is based on open-zeppelin's (TokenVesting.sol)[https://github.com/OpenZeppelin/openzeppelin-contracts-ethereum-package/blob/master/contracts/drafts/TokenVesting.sol]
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fethereum-vesting.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fethereum-vesting?ref=badge_large)
